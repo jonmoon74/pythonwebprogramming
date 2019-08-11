@@ -7,3 +7,4 @@ Repository of files from the Stone River E-learning course
 3.  SQLite with notes
 4.  URLlib
 5.  Basic html structuring
+6.  Parsing html
